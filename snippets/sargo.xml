@@ -3,5 +3,5 @@
     <project name="proprietary_vendor_google" path="vendor/google" remote="github-token" />
     <project name="android_device_google_bonito" path="device/google/bonito" remote="github-token" />
     <project name="LineageOS/android_device_google_sargo" path="device/google/sargo" remote="github" />
-    <project name="LineageOS/android_kernel_google_bonito" path="kernel/google/bonito" remote="github" />
+    <project name="LineageOS/android_kernel_google_bonito" path="kernel/google/bonito" remote="github" revision="refs/heads/lineage-16.0" />
 </manifest>
