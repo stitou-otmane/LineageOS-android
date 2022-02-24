@@ -3,7 +3,7 @@
 
   <remote  name="github-token"
            fetch="https://github.com/stitou-otmane/"
-           revision="refs/tags/test" />
+           revision="refs/heads/lineage-17.1-token" />
 
   <remote  name="github"
            fetch=".."
