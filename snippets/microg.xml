@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="vendor/partner_gms" name="MicroG-android_prebuilts_prebuiltapks" remote="github-token" revision="master-token" />
+</manifest>
