@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="proprietary_vendor_google" path="vendor/google" remote="github-token" />
+    <project name="android_device_google_sunfish" path="device/google/sunfish" remote="github-token" />
+    <project name="LineageOS/android_kernel_google_sunfish" path="kernel/google/sunfish" remote="github" />
+</manifest>
